@@ -24,4 +24,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [https://tema-dark-74nszv38p-tzappiello.vercel.app/](https://angular.io/cli) page.
+To get more help on the Angular CLI use `ng help` or go check out the [Clique aqui para ir no Site](https://tema-dark-74nszv38p-tzappiello.vercel.app/) page.
